@@ -1,2 +1,3 @@
-# ml-cybersecuritiy-course
-Machine Learning applied to Cyber Security  Course
+# Machine Learning applied to Cyber Security  Course
+
+W.I.P.
