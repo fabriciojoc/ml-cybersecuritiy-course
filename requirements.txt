@@ -1,0 +1,5 @@
+pefile
+pandas
+numpy
+scikit-learn
+scikit-multiflow
