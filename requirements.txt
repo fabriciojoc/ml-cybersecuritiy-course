@@ -1,4 +1,6 @@
 pefile
+glob
+androguard
 pandas
 numpy
 scikit-learn
