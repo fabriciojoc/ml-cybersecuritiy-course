@@ -1,7 +1,8 @@
+pandas
+matplotlib
 pefile
 glob
 androguard
-pandas
 numpy
 scikit-learn
 scikit-multiflow
