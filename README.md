@@ -12,5 +12,5 @@ This course is an introduction to machine learning applied to cyber security.
 
 ## Summary: 
 
-### **1.2. [Datasets](12_datasets.ipynb)**
-### **1.3. [Attributes](13_attributes.ipynb)**
+### **2. [Datasets](02_datasets.ipynb)**
+### **3. [Attributes](03_attributes.ipynb)**
