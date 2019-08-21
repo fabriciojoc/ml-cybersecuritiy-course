@@ -36,8 +36,7 @@ TensorFlow: Large-scale machine learning on heterogeneous systems. Software avai
 from tensorflow.org.
 
 [Albert Bifet 2018] Albert Bifet, Ricard Gavalda, G. H. B. P. (2018). Machine Learning
-for Data Streams with Practical Examples in MOA. MIT Press. https://moa.
-cms.waikato.ac.nz/book/.
+for Data Streams with Practical Examples in MOA. MIT Press. https://moa.cms.waikato.ac.nz/book/.
 
 [Almeida et al. 2015] Almeida, P., Oliveira, L., Britto, A., and Sabourin, R. (2015). Dealing
 with concept drifts using dynamic ensembles of classifiers. Tesis presented as
