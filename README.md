@@ -24,6 +24,34 @@ The massive amount of data produced by security solutions have been creating a s
 ### **6. [Evaluation](06_evaluation.ipynb)**
 ### **7. [Conclusion](07_conclusion.ipynb)**
 
+## Cite this Course
+
+If you want to cite this course in your work, please cite our paper [F. Ceschin, F. Pinage, M. Castilho, D. Menotti, L. S. Oliveira and A. Gregio, "The Need for Speed: An Analysis of Brazilian Malware Classifiers," in IEEE Security & Privacy, vol. 16, no. 6, pp. 31-41, Nov.-Dec. 2018. doi: 10.1109/MSEC.2018.2875369](https://ieeexplore.ieee.org/document/8636415/), which motivated us to create this content. Here is the bibtex of our work, if you to cite us:
+
+>@ARTICLE{8636415, 
+>
+>author={F. {Ceschin} and F. {Pinage} and M. {Castilho} and D. {Menotti} and L. S. {Oliveira} and A. {Gregio}}, 
+>
+>journal={IEEE Security Privacy}, 
+>
+>title={The Need for Speed: An Analysis of Brazilian Malware Classifiers}, 
+>
+>year={2018}, 
+>
+>volume={16}, 
+>
+>number={6}, 
+>
+>pages={31-41}, 
+>
+>keywords={invasive software;learning (artificial intelligence);pattern classification;Brazilian malware classifers;machine-learning systems;malware classification;Malware;Feature extraction;Support vector machines;Machine learning;Security;Security of data}, 
+>
+>doi={10.1109/MSEC.2018.2875369}, 
+>
+>ISSN={1540-7993}, 
+>
+>month={Nov},}
+
 ## References
 
 [Abadi et al. 2015] Abadi, M., Agarwal, A., Barham, P., Brevdo, E., Chen, Z., Citro, C.,
