@@ -26,7 +26,7 @@ The massive amount of data produced by security solutions have been creating a s
 
 ## Cite our Work
 
-If you want to cite this course in your work, please cite our paper [F. Ceschin, F. Pinage, M. Castilho, D. Menotti, L. S. Oliveira and A. Gregio, "The Need for Speed: An Analysis of Brazilian Malware Classifiers," in IEEE Security & Privacy, vol. 16, no. 6, pp. 31-41, Nov.-Dec. 2018. doi: 10.1109/MSEC.2018.2875369](https://ieeexplore.ieee.org/document/8636415/), which motivated us to create this content. Here is the bibtex of our work, if you to cite us:
+If you want to cite this course in your work, please cite our paper [F. Ceschin, F. Pinage, M. Castilho, D. Menotti, L. S. Oliveira and A. Gregio, "The Need for Speed: An Analysis of Brazilian Malware Classifiers," in IEEE Security & Privacy, vol. 16, no. 6, pp. 31-41, Nov.-Dec. 2018. doi: 10.1109/MSEC.2018.2875369](https://ieeexplore.ieee.org/document/8636415/), which motivated us to create this content. Here is the bibtex of our work, if you want to cite us:
 
 >@ARTICLE{8636415, 
 >
