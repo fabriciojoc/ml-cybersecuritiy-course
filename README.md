@@ -1,4 +1,4 @@
-# Machine Learning applied to Cyber Security Course
+# Machine Learning applied to Cyber Security Course <img src="imgs/ml-sec.png" width="75" align="right">
 
 This course is an introduction to machine learning applied to cyber security.
 
